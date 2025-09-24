@@ -10,17 +10,17 @@
 " /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
+  <strong> BACKEND DEVELOPER</strong><br/>
   <em>“Turning ideas into delightful, scalable software.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪Spring MVC, MySQL, and Front-end frameworks⟫**  
-- 🛠  Daily driver stack: **⟪Java, HTML, CSS, Database Design⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪mek520mek@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 🌱  I’m currently learning **Spring MVC, MySQL, and Front-end frameworks**  
+- 🛠  Daily driver stack: **Java, HTML, CSS, Database Design**  
+- 🎯  2025 Goal: **online laundry shop**  
+- 📫  Reach me: **mek520mek@gmail.com**
 
 ---
 
@@ -51,9 +51,8 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights |
 |---------|------|-----------|
-| **⟪online laundry shop⟫** | Java · Spring MVC · MySQL | General users can view service fee details.
+| **⟪online laundry shop⟫** | Java · Spring MVC · MySQL | 1.General users can view service fee details 2.Regular users can check service status. 3.Regular users can subscribe.
 
-_Add 2–4 projects max. Each row should fit on one screen._
 
 ---
 
@@ -70,10 +69,7 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪mek520mek@gmail.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
+- 💌 Email: ⟪mek520mek@gmail.com⟫    
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
-</p>
+
