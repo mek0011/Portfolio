@@ -26,24 +26,32 @@
 
 ## 🧰 Tech Stack & Tools
 <div align="center">
-
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+ <table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></td>
+    <td><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 ## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+| Project | Tech | Highlights |
+|---------|------|-----------|
+| **⟪online laundry shop⟫** | Java · Spring MVC · MySQL | General users can view service fee details.
 
 _Add 2–4 projects max. Each row should fit on one screen._
 
