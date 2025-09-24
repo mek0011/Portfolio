@@ -3,7 +3,8 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪NITHIWIT SANKHAO⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m ⟪NITHIWIT SANKHAO⟫ <img height="30" src="![1a5ae22b-7568-46b8-9e6d-c9bd521db934](https://github.com/user-attachments/assets/cc19a28d-252f-40b7-ac98-79988d22ce40)
+" /></h1>
 
 <p align="center">
   <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
