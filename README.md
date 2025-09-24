@@ -1,6 +1,7 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="![1a5ae22b-7568-46b8-9e6d-c9bd521db934](https://github.com/user-attachments/assets/61ce66d5-d31c-4188-8193-e84f68ac4716)
+" />
 </p>
 
 <h1 align="center">Hi, I’m ⟪NITHIWIT SANKHAO⟫ <img height="30" src="![1a5ae22b-7568-46b8-9e6d-c9bd521db934](https://github.com/user-attachments/assets/cc19a28d-252f-40b7-ac98-79988d22ce40)
