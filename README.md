@@ -1,8 +1,10 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="![1a5ae22b-7568-46b8-9e6d-c9bd521db934](https://github.com/user-attachments/assets/61ce66d5-d31c-4188-8193-e84f68ac4716)
-" />
+  <img src="https://github.com/mek0011/Portfolio/blob/main/1a5ae22b-7568-46b8-9e6d-c9bd521db934%20(1).jpg"
+       alt="Banner Image"
+       width="200"
 </p>
+
 
 <h1 align="center">Hi, I’m ⟪NITHIWIT SANKHAO⟫ <img height="30" src="![1a5ae22b-7568-46b8-9e6d-c9bd521db934](https://github.com/user-attachments/assets/cc19a28d-252f-40b7-ac98-79988d22ce40)
 " /></h1>
@@ -15,10 +17,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
+- 🌱  I’m currently learning **⟪Spring MVC, MySQL, and Front-end frameworks⟫**  
+- 🛠  Daily driver stack: **⟪Java, HTML, CSS, Database Design⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 📫  Reach me: **⟪mek520mek@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
 ---
 
@@ -49,24 +51,18 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 ## ✍🏻 Recent Blog / Talks
 <!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+🚧 **Coming soon:** Blog posts on Manual Testing & Test Automation
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+
 
 ---
 
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
+- 💌 Email: ⟪mek520mek@gmail.com⟫  
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫  
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
